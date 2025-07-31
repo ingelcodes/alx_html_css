@@ -10,7 +10,8 @@ main {
 
 main article {
     flex: 2;
-    overflow-y: auto
+    overflow-y: auto;
+    background-color: purple
 }
 
 main aside {
